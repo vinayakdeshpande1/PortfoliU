@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a846b49.css",
+    "main.js": "/static/js/main.1d96cb93.js",
+    "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
+    "static/js/64.de24b5b0.chunk.js": "/static/js/64.de24b5b0.chunk.js",
+    "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
+    "static/js/769.7f15e30f.chunk.js": "/static/js/769.7f15e30f.chunk.js",
+    "static/media/medibot.png": "/static/media/medibot.b57211297026a7877757.png",
+    "static/media/Utkarsha.jpg": "/static/media/Utkarsha.6ad6c99e826672ac3d4e.jpg",
+    "static/media/girlPC.png": "/static/media/girlPC.a6abbbdd70d5f68f91f6.png",
+    "static/media/MITAOELOGO2.png": "/static/media/MITAOELOGO2.a0f17d0ab32b16929adc.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/AISSMS_Logo.jpg": "/static/media/AISSMS_Logo.d153692bdb7de3ead537.jpg",
+    "static/media/ethical-hackin.jpg": "/static/media/ethical-hackin.6dced552cdc6c7ab0b57.jpg",
+    "static/media/EduSkills.png": "/static/media/EduSkills.dc1482766f0e19ab6006.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/palo.webp": "/static/media/palo.243c03760ec24e25ef94.webp",
+    "static/media/WorqHat.png": "/static/media/WorqHat.fb0d2c4bc5157c902a96.png",
+    "static/media/sterlingLogo.jpg": "/static/media/sterlingLogo.a43bbd17d3ff68d9a731.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/intelligentTag.webp": "/static/media/intelligentTag.a62c39c5eebb342568f0.webp",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9a846b49.css.map": "/static/css/main.9a846b49.css.map",
+    "main.1d96cb93.js.map": "/static/js/main.1d96cb93.js.map",
+    "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
+    "64.de24b5b0.chunk.js.map": "/static/js/64.de24b5b0.chunk.js.map",
+    "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
+    "769.7f15e30f.chunk.js.map": "/static/js/769.7f15e30f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a846b49.css",
+    "static/js/main.1d96cb93.js"
+  ]
+}
