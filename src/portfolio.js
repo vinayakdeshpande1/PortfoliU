@@ -127,7 +127,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "MIT Academy Of Engineering",
+      schoolName: "MIT Academy Of Engineering ,Pune",
       logo: require("./assets/images/MITAOELOGO2.png"),
       subHeader: "B-Tech in Computer Science",
       duration: "August 2020 - June 2023",
@@ -137,28 +137,28 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Diploma in Computer Engineering, AISSMS Polytechnic Pune.",
+      schoolName: "AISSMS Polytechnic College ,Pune.",
       logo: require("./assets/images/AISSMS_Logo.jpg"),
-      subHeader: "Diploma in Computer Science",
-      duration: "September 2018 - April 2020",
+      subHeader: "Diploma in Computer Engineering",
+      duration: "August 2018 - June 2020",
      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: []
     }
     ,
     {
-      schoolName: "Higher School Certificate, Amrita Junior College, Science, Pune ",
+      schoolName: "Amrita Junior College, Science, Pune ",
       logo: require("./assets/images/Amrita.png"),
       subHeader: "12th",
-      duration: "September 2016 - April 2018",
+      duration: "August 2016 - June 2018",
      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: []
     }
     ,
     {
-      schoolName: "Secondary School Certificate, Sterling School, Indrayaninagar, Pune",
+      schoolName: "Sterling School, Indrayaninagar, Pune",
       logo: require("./assets/images/sterlingLogo.jpg"),
       subHeader: "10th",
-      duration: "September 20115 - April 2016",
+      duration: "April 2015 - May 2016",
      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: []
     }
@@ -192,7 +192,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Full Stack Webdeveloper Intern",
+      role: "Full Stack Web Developer Intern",
       company: "Worqhat",
       companylogo: require("./assets/images/WorqHat.png"),
       date: "January 2023 – Present",
@@ -220,7 +220,7 @@ const workExperiences = {
       role: "Web Development Intern",
       company: "intelligentTag",
       companylogo: require("./assets/images/intelligentTag.webp"),
-      date: "Mar 2022-May 2022",
+      date: "June 2022-August 2022",
       desc: "Planning, implementing, managing, monitoring and upgrading security measures for the protection of the organization's data, systems and networks."
     }
   ]
@@ -246,7 +246,8 @@ const bigProjects = {
       projectDesc: "our chatbot will diagnose the patient,suggest them doctor and medicine",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Visit Project",
+          url:"https://github.com/vinayakdeshpande1/Medical-Chatbot.git"
           
         }
         //  you can add extra buttons here.
